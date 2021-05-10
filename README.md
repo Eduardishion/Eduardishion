@@ -2,16 +2,7 @@
 
 - 🌱 I’m currently learning on Digital House
 
-               .-"""-.    .-"""-.
-               /       `..'       \
-        _     |                    |
-     .-' /    |          I         |    /////
-    <   <======\     Programing    /====<<<<<
-     '-._\      \                /      \\\\\
-                 `\            /'
-                   `\        /'
-                     `\    /'
-                       `\/'
+
 
 <!--
 **Eduardishion/Eduardishion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
