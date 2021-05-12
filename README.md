@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on Digital House
 
 Mis proyectos que mas me gustan:
-  - https://github.com/Eduardishion/ReproductorMusicaVFlash8
+  - Reproductor de musica hecho en Flash 8 y actionScript ya descontinuado pero funcional: https://github.com/Eduardishion/ReproductorMusicaVFlash8
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=bear&show_icons=true)
