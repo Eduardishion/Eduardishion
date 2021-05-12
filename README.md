@@ -5,6 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=bear&show_icons=true)
 
+https://img.shields.io/badge/-ReactJS-lightblue
 
 Mis proyectos que mas me gustan:
   - Reproductor de musica hecho en Flash 8 y actionScript ya descontinuado pero funcional: https://github.com/Eduardishion/ReproductorMusicaVFlash8
