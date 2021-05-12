@@ -2,6 +2,10 @@
 
 - 🌱 I’m currently learning on Digital House
 
+Mis proyectos que mas me gustan:
+  - https://github.com/Eduardishion/ReproductorMusicaVFlash8
+  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=bear&show_icons=true)
 
 
