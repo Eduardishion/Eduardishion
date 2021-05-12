@@ -4,8 +4,9 @@
 
 Mis proyectos que mas me gustan:
   - Reproductor de musica hecho en Flash 8 y actionScript ya descontinuado pero funcional: https://github.com/Eduardishion/ReproductorMusicaVFlash8
+  - Algoritmo text Rank para generar resumenes de textos de manera automatica, Aplicando tecnincas de procesamiento del lenguale natural (PLN): https://github.com/Eduardishion/AlgoritmoTextRank
 
-  -Algoritmo text Rank para generar resumenes de textos de manera automatica, Aplicando tecnincas de procesamiento del lenguale natural (PLN): https://github.com/Eduardishion/AlgoritmoTextRank
+ 
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=bear&show_icons=true)
