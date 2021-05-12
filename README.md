@@ -6,6 +6,7 @@ Mis proyectos que mas me gustan:
   - Reproductor de musica hecho en Flash 8 y actionScript ya descontinuado pero funcional: https://github.com/Eduardishion/ReproductorMusicaVFlash8
   - Algoritmo text Rank para generar resumenes de textos de manera automatica, aplicando tecnincas de procesamiento del lenguale natural (PLN): https://github.com/Eduardishion/AlgoritmoTextRank
   - Algoritmo genetico de codificacion binaria, con ejemplos de aperadores evolutivos mas comunes: https://github.com/Eduardishion/AlgoritmoGeneticoYOperadores
+  - Evaluador automatico de ensayos, este toma referencia en una competencia de la pagina https://www.kaggle.com/ , no participe pero es un previo aun por seguir mejorando, en el cual se trabaja con textos, los cuales deben ser cargados desde archivos csv dividirlos en datos de prueba y de testeo para despues entrenar a los modelos de aprendisaje, los textos deben ser   preprocesaados, entrenar los modelos de aprendisaje y precedir una posible calificacion a los ensayos  : https://github.com/Eduardishion/EvaluacionAutomaticaDeEnsayos
 
  
   
