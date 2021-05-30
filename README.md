@@ -1,4 +1,4 @@
-### Hola mi nombre es Eduardo 👋
+### Hi, my name is Eduardo 👋
 
 - 🌱 I’m currently learning on Digital House Coding School (DH).
  🔭 My areas of interest are RPA - Automat of Robotic Processes, web development, web scraping, tasks automation, natural language processing (PLN), Information retrieval, text mining, chat bots, and artificial intelligence.
