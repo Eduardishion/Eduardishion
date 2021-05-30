@@ -1,7 +1,7 @@
 ### Hola mi nombre es Eduardo 👋
 
 - 🌱 I’m currently learning on Digital House
-- 🔭 My areas of interest are RPA - Automat of Robotic Processes, web development, web scraping, natural language processing (PLN), chat bots, and artificial intelligence.
+- 🔭 My areas of interest are RPA - Automat of Robotic Processes, web development, web scraping, natural language processing (PLN),Information retrieval, text mining, chat bots, and artificial intelligence.
 
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardishion&theme=bear&show_icons=true)
