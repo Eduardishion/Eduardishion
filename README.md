@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardishion&layout=compact)](https://github.com/Eduardishion/github-readme-stats)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)](https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)
+My linkedin is: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)](https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)
 
 Mis proyectos que más me gustan:
   - Reproductor de musica hecho en Flash 8 y actionScript ya descontinuado pero funcional: https://github.com/Eduardishion/ReproductorMusicaVFlash8
