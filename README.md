@@ -1,6 +1,7 @@
-### Hi, my name is Eduardo 👋
-![alt preview](https://github.com/Eduardishion/Eduardishion/blob/main/_milogo.gif )
+   ### Hi, my name is Eduardo 👋
 
+
+![alt preview](https://github.com/Eduardishion/Eduardishion/blob/main/_milogo.gif )
 - 🌱 I’m currently learning on Digital House Coding School (DH).
 - 🔭 My areas of interest are RPA - Automat of Robotic Processes, web development, web scraping, tasks automation, natural language processing (PLN), Information retrieval, text mining, chat bots, and artificial intelligence.
 
@@ -16,6 +17,8 @@ Mis proyectos que más me gustan:
   - Algoritmo text Rank para generar resumenes de textos de manera automatica, aplicando técnicas de procesamiento del lenguale natural (PLN): https://github.com/Eduardishion/AlgoritmoTextRank
   - Algoritmo genetico de codificacion binaria, con ejemplos de aperadores evolutivos mas comunes: https://github.com/Eduardishion/AlgoritmoGeneticoYOperadores
   - Evaluador automatico de ensayos, este toma referencia en una competencia de la pagina https://www.kaggle.com/ , no participe pero es un previo aun por seguir mejorando, en el cual se trabaja con textos, los cuales deben ser cargados desde archivos csv dividirlos en datos de prueba y de testeo para despues entrenar a los modelos de aprendisaje, los textos deben ser   preprocesaados, entrenar los modelos de aprendisaje y precedir una posible calificacion a los ensayos  : https://github.com/Eduardishion/EvaluacionAutomaticaDeEnsayos
+
+
 
  
   
