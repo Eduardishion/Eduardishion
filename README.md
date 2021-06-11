@@ -6,6 +6,7 @@
 </div>
 </br>
 <div align="center">
+   - I studied in the Universidad Autónoma de Estado de México UAEM, Unidad Académica Profesional Tianguistenco UAPT.
    - 🌱 I’m currently learning on Digital House Coding School (DH).
    - 🔭 My areas of interest are RPA - Automat of Robotic Processes, web development, web scraping, tasks automation, natural language processing (PLN), Information retrieval, text mining, chat bots, and artificial intelligence.
 </div>
