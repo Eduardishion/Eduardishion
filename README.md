@@ -12,7 +12,8 @@
 </div>
 </br>
 <div align="center">
-        my page official: https://eduardishion.github.io/PortafolioProyects.github.io/index.html
+        My page official: https://eduardishion.github.io/PortafolioProyects.github.io/index.html
+    
 </div>
 </br>
 <div align="center">
