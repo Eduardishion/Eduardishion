@@ -12,7 +12,7 @@
 </div>
 </br>
 <div align="center">
-        My page official: https://eduardishion.github.io/PortafolioProyects.github.io/index.html
+        My page official: https://eduardishion.netlify.app/
     
 </div>
 </br>
