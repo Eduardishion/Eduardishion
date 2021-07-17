@@ -1,4 +1,4 @@
-   
+
 
 <div align="center">
    <h1> Hi, my name is Eduardo 👋 </h1>
@@ -32,7 +32,7 @@ My linkedin is: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?s
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ea486ad3-239a-46ae-b3a5-037db9ab0bb2/deploy-status)](https://app.netlify.com/sites/eduardishion/deploys)
    
   
-Mis proyectos que más me gustan:
+My proyects that I like me:
   - Reproductor de musica hecho en Flash 8 y actionScript ya descontinuado pero funcional: https://github.com/Eduardishion/ReproductorMusicaVFlash8
   - Algoritmo text Rank para generar resumenes de textos de manera automatica, aplicando técnicas de procesamiento del lenguale natural (PLN): https://github.com/Eduardishion/AlgoritmoTextRank
   - Algoritmo genetico de codificacion binaria, con ejemplos de aperadores evolutivos mas comunes: https://github.com/Eduardishion/AlgoritmoGeneticoYOperadores
