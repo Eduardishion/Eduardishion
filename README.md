@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
    <h1> Hi, my name is Eduardo 👋 </h1>
    <img src="https://github.com/Eduardishion/Eduardishion/blob/main/_milogo.gif"  width="150" height="150"/>
