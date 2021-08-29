@@ -18,10 +18,8 @@
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Eduardishion&theme=bear&show_icons=true" />
 </div>
-   
 </br>
 </br>
-
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardishion&layout=compact)](https://github.com/Eduardishion/github-readme-stats" />
 </div>
