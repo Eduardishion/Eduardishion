@@ -23,7 +23,7 @@
 </br>
 </br>
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardishion&layout=compact)](https://github.com/Eduardishion/github-readme-stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardishion&layout=compact&langs_count=15)](https://github.com/Eduardishion/github-readme-stats" />
 </div>
 
 My linkedin is: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)](https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)
