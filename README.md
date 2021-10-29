@@ -22,18 +22,19 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ea486ad3-239a-46ae-b3a5-037db9ab0bb2/deploy-status)](https://app.netlify.com/sites/eduardishion/deploys)
 </div>
 
+</br>
 
-
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardishion&layout=compact&langs_count=15)](https://github.com/Eduardishion/github-readme-stats" />
+</div>
 
 </br>
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Eduardishion&theme=bear&show_icons=true" />
 </div>
 </br>
-</br>
-<div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardishion&layout=compact&langs_count=15)](https://github.com/Eduardishion/github-readme-stats" />
-</div>
+
+
 
 
   
