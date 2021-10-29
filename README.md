@@ -12,6 +12,12 @@
 </br>
 <div align="center">
         My page official: https://eduardishion.netlify.app/
+   
+   
+   My linkedin is: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)](https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)
+   
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ea486ad3-239a-46ae-b3a5-037db9ab0bb2/deploy-status)](https://app.netlify.com/sites/eduardishion/deploys)
 </div>
 
 
@@ -27,10 +33,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardishion&layout=compact&langs_count=15)](https://github.com/Eduardishion/github-readme-stats" />
 </div>
 
-My linkedin is: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)](https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ea486ad3-239a-46ae-b3a5-037db9ab0bb2/deploy-status)](https://app.netlify.com/sites/eduardishion/deploys)
-   
   
 My proyects that I like me:
   - Reproductor de musica hecho en Flash 8 y actionScript ya descontinuado pero funcional: https://github.com/Eduardishion/ReproductorMusicaVFlash8
