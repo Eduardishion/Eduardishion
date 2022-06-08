@@ -12,11 +12,10 @@
 </br>
 <div align="center">
         My page official: https://eduardishion.netlify.app/
+         
+        My email: softwareengineer.eduardo.uapt@gmail.com
    
-   
-   
-   
-   My linkedin is: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)](https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)
+        My linkedin is: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)](https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)
    
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ea486ad3-239a-46ae-b3a5-037db9ab0bb2/deploy-status)](https://app.netlify.com/sites/eduardishion/deploys)
