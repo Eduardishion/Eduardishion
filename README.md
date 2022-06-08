@@ -10,10 +10,12 @@
    - 🔭 My areas of interest are RPA - Automat of Robotic Processes, web development, web scraping, tasks automation, natural language processing (PLN), Information retrieval, text mining, chat bots, and artificial intelligence.
 </div>
 </br>
-<div align="center">
+<div align="center">     
+        My email: softwareengineer.eduardo.uapt@gmail.com
+   
         My page official: https://eduardishion.netlify.app/
          
-        My email: softwareengineer.eduardo.uapt@gmail.com
+       
    
         My linkedin is: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)](https://www.linkedin.com/in/eduardo-izquierdo-rojas-b75887121/)
    
