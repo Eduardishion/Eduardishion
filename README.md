@@ -37,13 +37,16 @@
 </br>
 
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardishion&layout=compact&langs_count=15)](https://github.com/Eduardishion/github-readme-stats" />
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardishion&layout=compact)
 </div>
 
 </br>
+ <!--
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Eduardishion&theme=bear&show_icons=true" />
 </div>
+-->
 </br>
 
 
